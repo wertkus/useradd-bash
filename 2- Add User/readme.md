@@ -48,11 +48,11 @@ DESCRIPTION  (from man)
 
 ### passwd!
 
-DESCRIPTION
-        The passwd command changes passwords for user accounts. A normal user
-        may only change the password for their own account, while the superuser
-        may change the password for any account.  passwd also changes the
-        account or associated password validity period.
+         DESCRIPTION
+                The passwd command changes passwords for user accounts. A normal user
+                may only change the password for their own account, while the superuser
+                may change the password for any account.  passwd also changes the
+                account or associated password validity period.
 
     Password Changes
        The user is first prompted for their old password, if one is present.
